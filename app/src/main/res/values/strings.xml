@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pet Store</string>
+    <string name="add_pet_label">Add a Pet</string>
+    <string name="edit_pet_label">Edit Pet</string>
+
+    <string name="lonely_text">It\'s Lonely over here\n Add some pets.</string>
+
+    <string name="pet_saved">Pet Saved!</string>
+    <string name="save_error">"Error entering pet.\n Please Try again"</string>
+    <string name="save_edit_error">Failed to update!</string>
+
+    <string name="unsaved_changes_dialog_message">You have a couple of unsaved changes. \n Are you sure you want to cancel?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_pet_dialog_message">Are you sure you want to delete this pet?</string>
+    <string name="delete_pet">Delete Pet</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_pet_failed_message">Failed to delete pet. \n Try again!</string>
+    <string name="delete_pet_success_message">Pet deleted successfully!</string>
+
+    <string name="delete_all_dialog_message">Are you sure you want to clear the Pet Store?</string>
+    <string name="delete_all">Delete All?</string>
+    <string name="delete_all_fail_message">Delete all Failed!</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="action_delete_one">Delete</string>
+    <string name="overview_label">Overview</string>
+    <string name="gender_label">Gender</string>
+    <string name="measurement_label">Measurement</string>
+    <string name="name_hint">Name</string>
+    <string name="breed_hint">Breed</string>
+    <string name="weight_hint">Weight</string>
+    <string name="kg_label">kg</string>
+    <string name="save">Save</string>
+
+    <string-array name="gender_array">
+        <item>Unknown</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+
+</resources>
